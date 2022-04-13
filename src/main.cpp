@@ -1,8 +1,6 @@
 #include <SDL2/SDL.h>
 #include <chrono>
 #include <complex>
-#include <ctime>
-#include <iomanip>
 #include <iostream>
 #include <vector>
 
